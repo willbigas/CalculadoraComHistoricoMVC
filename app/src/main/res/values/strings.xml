@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Calculadora Com Historico MVC</string>
+    <string name="text_numero1" translatable="false">N1</string>
+    <string name="text_numero2" translatable="false">N2</string>
+    <string name="text_somar" translatable="false">+</string>
+    <string name="text_subtrair" translatable="false">-</string>
+    <string name="text_multiplicar" translatable="false">*</string>
+    <string name="text_dividir" translatable="false">/</string>
+    <string name="required_numero1">Numero 1 é um campo obrigatório</string>
+    <string name="required_numero2">Numero 2 é um campo obrigatório</string>
+</resources>
